@@ -1,3 +1,4 @@
+source ~/.gitstatus/gitstatus.plugin.zsh
 
 # snippet taken from https://github.com/romkatv/gitstatus
 function gitstatus_prompt_update() {
